@@ -1,0 +1,1 @@
+country_list = ['ind', 'usa', 'aus', 'fran', 'jap']
