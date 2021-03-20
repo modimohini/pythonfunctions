@@ -16,4 +16,5 @@ myNOTfun()
 
 #print(4>>2) # binary shift right opration 
 
-
+for my_list in reversed(my_list):
+    print(my_list)
